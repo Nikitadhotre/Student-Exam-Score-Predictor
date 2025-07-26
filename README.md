@@ -33,7 +33,7 @@ The dataset `StudentPerformanceFactors.csv` contains records of student demograp
 
 ## 1. Clone the Repository
 1. git clone https://github.com/Nikitadhotre/Student-Exam-Score-Predictor.git
-2. cd student-score-predictor
+2. cd Student-Exam-Score-Predictor
 3. pip install flask pandas scikit-learn joblib flask-cors
 4. python retrain_model.py
 5. python student_score_predictor.py
